@@ -1,15 +1,8 @@
 # Author : Mr.Rm19
 # jangan ganti author cape tau bikin nya!
 
-import LIST
-from LIST.id import *
-from LIST.it import *
-from LIST.jp import *
-from LIST.us import *
-from LIST.fr import *
-from LIST.kr import *
-from LIST.de import *
-from LIST.tr import *
+import DATA
+from DATA.id import *
 import requests,re,os
 
 b="\033[0;34m"
